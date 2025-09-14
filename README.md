@@ -1,1 +1,0 @@
-# Terraform-Docker-GRUPO-6
